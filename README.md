@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Visit](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt)
+- Solution URL: [Visit](https://www.frontendmentor.io/solutions/dynamic-chart-component-using-chartjs-library-yA_Jh7fxG9)
 - Live Site URL: [Visit](https://akibraza91.github.io/expenses-chart/)
 
 ## My process
